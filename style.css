@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "Bebas nene";
+    src: url(Bebas_Neue\,Peralta\,Poppins/Bebas_Neue/);
+}
+@font-face {
+    font-family:"poppin" ;
+    src: url(Peralta,Poppins/Poppins/Poppins-Regular.ttf);
+    
+}
+.navbar-brand{
+    font-family: poppin;
+    font-weight: 800;
+    letter-spacing: 1%;
+    margin: 5%;
+}
+.d-flex{
+    margin-right: 20px;
+}
+.hero{
+    background: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+    border-radius: 20px;
+    
+}
+.image{
+    display: flex;
+    justify-content: end;
+}
+.text{
+    margin-left:900px;
+    margin-top: 50px;
+}
+.heading{
+    margin-left: 720px;
+}
+
+    
+   
+
+    
+
+
+
+   
+   
+
