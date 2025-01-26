@@ -4,9 +4,8 @@
 }
 @font-face {
     font-family:"poppin" ;
-    src: url(Peralta,Poppins/Poppins/Poppins-Regular.ttf);
-    
-}
+    src: url(Peralta,Poppins/Poppins/Poppins-Regular.ttf)
+ }  
 .navbar-brand{
     font-family: poppin;
     font-weight: 800;
@@ -26,12 +25,13 @@
     justify-content: end;
 }
 .text{
-    margin-left:900px;
-    margin-top: 50px;
+    margin-left:60%;
+    margin-top: 5px;
 }
 .heading{
-    margin-left: 720px;
+    margin-left:43%;
 }
+
 
     
    
